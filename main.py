@@ -1,2 +1,2 @@
-print("qualquer coisa")
-print("ihuuuu!")
+x = 2 + 2
+print(f"x é {x}")
