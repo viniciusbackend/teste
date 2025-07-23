@@ -1,2 +1,4 @@
-x = 2 + 2
-print(f"x é {x}")
+n = 12
+m = 10
+nm = n + m
+print(nm)
